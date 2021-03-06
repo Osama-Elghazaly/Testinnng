@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chapter3</string>
+    <string name="action_settings">Settings</string>
+        <string name="txtTitle">Ticket Vault</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="Prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="bttnCost">How much will I pay ?</string>
+
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item> Zig Zag</item>
+
+    </string-array>
+    <string name="txtResult"> </string>
+
+
+</resources>
